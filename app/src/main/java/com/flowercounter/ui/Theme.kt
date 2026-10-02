@@ -1,3 +1,9 @@
+/*
+ * Flower Counter
+ * Himanshu S Mazumdar
+ * Dharmsinh Desai University, Nadiad, INDIA
+ */
+
 package com.flowercounter.ui
 
 import androidx.compose.foundation.isSystemInDarkTheme

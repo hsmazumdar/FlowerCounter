@@ -1,4 +1,8 @@
 """
+Flower Counter
+Himanshu S Mazumdar
+Dharmsinh Desai University, Nadiad, INDIA
+
 Desktop mirror of the Android FlowerCounter pipeline, used to pick sensible
 default slider values from a sample photo before trying them on a phone.
 
